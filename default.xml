@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="origin"
-           fetch="git@github.com:kongxiaoan/Network-Demo.git"
+           fetch=""
            />
   <default remote="origin" revision="master"/>
   <project path="local_network_demo" name="Network-Demo"/>
