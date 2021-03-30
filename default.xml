@@ -2,8 +2,8 @@
 <manifest>
 
   <remote  name="origin"
-           fetch="https://github.com/kongxiaoan/{namespace}.git"
+           fetch="https://github.com/kongxiaoan/Network-Demo.git"
            />
   <default remote="origin" revision="master"/>
-  <project path="local_network_demo" name="Network-Demo"/>
+  <project path="local_network_demo"/>
 </manifest>
